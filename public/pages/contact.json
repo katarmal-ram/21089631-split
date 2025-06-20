@@ -1,50 +1,55 @@
-
 {
-  "meta": {
-    "title": "Lorem Us - Lorem Industries",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit"
-  },
   "hero": {
     "type": "image",
+    "title": "Contact Rajesh Metals",
     "enabled": true,
-    "title": "Lorem Us",
-    "subtitle": "Lorem ipsum dolor sit amet",
-    "description": "Lorem ipsum dolor sit amet consectetur adipiscing.",
-    "backgroundImage": "https://images.unsplash.com/photo-1423666639041-f56000c27a9a?auto=format&fit=crop&w=2000&q=80"
+    "subtitle": "Get Expert Brass Manufacturing Solutions",
+    "description": "Ready to discuss your brass part requirements? Our experienced team is here to provide tailored manufacturing solutions for your specific needs.",
+    "backgroundImage": "https://images.unsplash.com/photo-1517048676732-d65bc9c4fdc8"
+  },
+  "meta": {
+    "title": "Rajesh Metals - Brass Forging Experts | Get Quote Today",
+    "description": "Connect with Rajesh Metals for high-quality brass manufacturing. Expert team, quick response, and custom solutions for your industrial needs."
   },
   "sections": {
-    "contactInfo": {
-      "type": "contact-info",
-      "enabled": true,
-      "title": "Lorem Information",
-      "subtitle": "Lorem ways to reach us",
-      "items": [
-        {
-          "type": "address",
-          "title": "Our Lorem",
-          "content": "Lorem No. 42, Lorem Industrial Estate, Lorem - 361004, Lorem, India",
-          "icon": "map-pin"
-        },
-        {
-          "type": "phone",
-          "title": "Lorem",
-          "content": "+91 288 123 4567",
-          "icon": "phone"
-        },
-        {
-          "type": "email",
-          "title": "Lorem",
-          "content": "info@lorem.com",
-          "icon": "mail"
-        }
-      ]
-    },
     "contactForm": {
       "type": "contact-form",
+      "items": [],
+      "title": "Send Us Your Requirements",
       "enabled": true,
-      "title": "Send us a Lorem",
-      "subtitle": "Lorem out the form and we'll get back to you",
-      "items": []
+      "subtitle": "Fill out the form and we'll get back to you within 24 hours with a comprehensive solution"
+    },
+    "contactInfo": {
+      "type": "contact-info",
+      "items": [
+        {
+          "icon": "map-pin",
+          "type": "address",
+          "title": "Our Factory Location",
+          "content": "Rajesh Metals, Industrial Area, Jamnagar, Gujarat, India"
+        },
+        {
+          "icon": "phone",
+          "type": "phone",
+          "title": "Contact Numbers",
+          "content": "+91 99999 88888, +91 98765 43210"
+        },
+        {
+          "icon": "mail",
+          "type": "email",
+          "title": "Email Us",
+          "content": "info@rajeshmetals.com, sales@rajeshmetals.com"
+        },
+        {
+          "icon": "whatsapp",
+          "type": "whatsapp",
+          "title": "WhatsApp Support",
+          "content": "+91 99999 88888"
+        }
+      ],
+      "title": "Contact Information",
+      "enabled": true,
+      "subtitle": "Multiple ways to reach our expert manufacturing team"
     }
   }
 }
